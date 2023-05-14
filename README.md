@@ -1,4 +1,4 @@
 # introToPCNetworking
-General projects and knowledge about PC Networking I have done for a class. 
+General project and knowledge about PC Networking I have done for class. 
 
 Semester: Fall 2020
